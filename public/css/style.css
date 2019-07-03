@@ -1,0 +1,10 @@
+.button{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+.formContainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
